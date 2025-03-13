@@ -15,8 +15,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/kaushikjadhav01/Online-Food-Ordering-Web-App?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/kaushikjadhav01/Online-Food-Ordering-Web-App?style=social)
 
-# Online-Food-Ordering-Web-App
-Online Food Ordering System Website using PHP, SQL, HTML, JavaScript & CSS. Live Demo at: http://food.kajadhav.me
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -29,9 +28,6 @@ Online Food Ordering System Website using PHP, SQL, HTML, JavaScript & CSS. Live
   </ol>
 </details>
 
-## System Description and Functions
-**Live Demo:** http://food.kajadhav.me<br/>
-<img src="https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/blob/master/screenshots/99-banner.png"><br/>
 
 **Admin Creds:** <br/>
 Admin Login & Password (You can change this in phpmyadmin):<br/>
@@ -62,8 +58,7 @@ Admin can:<br/>
     <li>Resolve Support Tickets</li>
 </ol>
 
-### Screenshots
-Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/kaushikjadhav01/Online-Food-Ordering-Web-App/tree/master/screenshots">click here</a>
+
 
 ## Built With
 ![PHP](https://img.shields.io/badge/Php-A10E3B?style=for-the-badge&amp;logo=php&amp;logoColor=white)
